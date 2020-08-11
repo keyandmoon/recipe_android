@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">爱厨房</string>
+    <string name="rb_home">主页</string>
+    <string name="add_r">上传菜谱</string>
+    <string name="mine">我的</string>
+    <string name="sex_female">女</string>
+    <string name="sex_male">男</string>
+</resources>
