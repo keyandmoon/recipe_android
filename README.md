@@ -1,1 +1,2 @@
 # recipe_android
+本项目是学习Android开发时做的一个小demo。它的功能是共享用户自定义的菜谱。
